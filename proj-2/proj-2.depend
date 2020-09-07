@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599249280 source:c:\users\abdul aziz\desktop\hackerrank\linux2020\learn-c\c-crashcourse\proj-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyInfo.h"
+
+1599249266 c:\users\abdul aziz\desktop\hackerrank\linux2020\learn-c\c-crashcourse\proj-2\myinfo.h
+
