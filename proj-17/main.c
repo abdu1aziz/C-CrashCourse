@@ -9,7 +9,7 @@
 int main(){
 
 	// define string as int.
-	int letter = 'A';
+	int letter = 'b';
 
 
 	// isdigit (For checking if digits, int or number)
@@ -18,6 +18,15 @@ int main(){
 	if(isalpha(letter)){
 
 		printf("True!! %c is a Alphabet.\n", letter);
+		if(isupper(letter)){
+		
+			printf("FYI!! %c is also an Uppercase letter to keep in mind.\n", letter);
+		
+		}else{
+			
+			printf("FYI!! %c is NOT an Uppercase letter to keep in mind.\n", letter);
+		
+		}
 	
 	}else{
 
